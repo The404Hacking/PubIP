@@ -14,11 +14,20 @@ python PubIP.py
 ## Python
 [PubIP](https://github.com/The404Hacking/PubIP/) requires Python version 2.7.x
 
-## Python Download
+Download [Python](https://python.org) Version 2.7.13: Click [Here](https://www.python.org/ftp/python/2.7.13/Python-2.7.13.tgz)
+
+
+## Download Python
 > [Python 2.7.14 - 2017-09-16](https://www.python.org/downloads/release/python-2714/)
 >> Download [XZ compressed source tarball](https://www.python.org/ftp/python/2.7.14/Python-2.7.14.tar.xz)
 
 >> Download [Gzipped source tarball](https://www.python.org/ftp/python/2.7.14/Python-2.7.14.tgz)
+
+
+## Install Python
+Learning Install Python on Linux Ubuntu and Mint: Click [Here](https://tecadmin.net/install-python-2-7-on-ubuntu-and-linuxmint/)
+
+
 
 ## Download and Clone
 > Download: Click [Here](https://github.com/The404Hacking/PubIP/archive/master.zip)
