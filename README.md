@@ -17,6 +17,7 @@ python PubIP.py
 ## Python Download
 > [Python 2.7.14 - 2017-09-16](https://www.python.org/downloads/release/python-2714/)
 >> Download [XZ compressed source tarball](https://www.python.org/ftp/python/2.7.14/Python-2.7.14.tar.xz)
+
 >> Download [Gzipped source tarball](https://www.python.org/ftp/python/2.7.14/Python-2.7.14.tgz)
 
 ## Download and Clone
